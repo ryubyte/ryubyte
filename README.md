@@ -99,24 +99,6 @@
 <!-- Wave Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryubyte&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=F97316&point=FFFFFF&area=true&area_color=6366F1" alt="Activity Graph" width="100%"/>
-</p>
-
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryubyte&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-</p>
-
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 🐍 Contribution Snake
 
 <p align="center">
