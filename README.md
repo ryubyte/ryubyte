@@ -92,10 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryubyte&theme=radical&hide_border=true&background=0D1117&stroke=F97316&ring=6366F1&fire=F97316&currStreakLabel=FFFFFF" alt="GitHub Streak" width="70%"/>
-</p>
-
 <!-- Wave Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
