@@ -1,5 +1,3 @@
-<div align="center">
-
 # ⚡ ryubyte ⚡
 
 **Full-Stack Engineer · Frontend-Minded**
@@ -62,5 +60,3 @@ hobbies:
 
 [![Email](https://img.shields.io/badge/email-ryubyte%40hotmail.com-00D9FF?style=flat&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ryubyte@hotmail.com)
 [![GitHub](https://img.shields.io/badge/github-ryubyte-00D9FF?style=flat&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ryubyte)
-
-</div>
