@@ -6,8 +6,7 @@
 
 ```yaml
 name: ryubyte
-role: Full-Stack Engineer · Frontend-Focused
-github_since: 2026-01
+role: Full-Stack Engineer 
 
 current_focus:
   - "AI-assisted development workflows"
@@ -38,15 +37,12 @@ hobbies:
 
 <details>
 <summary><b>🐍 contributions</b></summary>
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryubyte/ryubyte/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryubyte/ryubyte/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ryubyte/ryubyte/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </details>
-
-<br>
 
 ### 📬 Contact
 
