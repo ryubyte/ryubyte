@@ -1,43 +1,35 @@
-<div>
-
 # ⚡ ryubyte ⚡
 
 **Full-Stack Engineer**
 
-<br>
-
 ### 👤 About Me
-
-<div align="left">
 
 ```yaml
 name: ryubyte
-located_in: The Digital Realm 🌐
-current_focus: Building Scalable Web Applications
-education:
-  - "Self-taught Developer"
-  - "Continuous Learner"
+role: Full-Stack Engineer · Frontend-Focused
+github_since: 2026-01
+
+current_focus:
+  - "AI-assisted development workflows"
+  - "Agent tooling & MCP bridges"
+  - "Developer utilities for macOS"
 
 fields_of_interests:
-  - "Frontend Development"
-  - "Backend Architecture"
-  - "UI/UX Design"
+  - "Frontend Engineering"
+  - "AI Agents & Tooling"
+  - "CLI & Terminal Tools"
   - "Open Source"
 
 currently_learning:
-  - "Advanced TypeScript Patterns"
-  - "System Design"
-  - "Cloud Architecture"
+  - "Agent interoperability (A2A)"
+  - "Building fast tools with Go"
+  - "macOS system-level development"
 
 hobbies:
-  - "Coding Side Projects"
-  - "Reading Tech Blogs"
+  - "Building tools that solve my own problems"
+  - "Reading engineering blogs"
   - "Contributing to OSS"
 ```
-
-</div>
-
-<br>
 
 ### 🧰 Tech Stack
 
@@ -60,5 +52,3 @@ hobbies:
 
 [![Email](https://img.shields.io/badge/email-ryubyte%40hotmail.com-00D9FF?style=flat&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ryubyte@hotmail.com)
 [![GitHub](https://img.shields.io/badge/github-ryubyte-00D9FF?style=flat&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ryubyte)
-
-</div>
