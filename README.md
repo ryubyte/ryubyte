@@ -10,6 +10,8 @@
 
 ### 👤 About Me
 
+<div align="left">
+
 ```yaml
 name: ryubyte
 located_in: The Digital Realm 🌐
@@ -35,18 +37,14 @@ hobbies:
   - "Contributing to OSS"
 ```
 
+</div>
+
 <br>
 
 ### 🧰 Tech Stack
 
 [![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
 [![Backend & Tools](https://skillicons.dev/icons?i=nodejs,go,python,postgres,redis,docker&theme=dark)](https://skillicons.dev)
-
-### 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryubyte&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/ryubyte)
-
-
 
 <details>
 <summary><b>🐍 contributions</b></summary>
