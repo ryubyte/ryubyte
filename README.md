@@ -1,8 +1,8 @@
+<div>
+
 # ⚡ ryubyte ⚡
 
-**Full-Stack Engineer · Frontend-Minded**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=typescript+%C2%B7+react+%C2%B7+node.js+%C2%B7+go;+clean+code+over+clever+code;+building+tools+that+feel+good+to+use;+commit+often,+stay+curious)](https://github.com/ryubyte)
+**Full-Stack Engineer**
 
 <br>
 
@@ -60,3 +60,5 @@ hobbies:
 
 [![Email](https://img.shields.io/badge/email-ryubyte%40hotmail.com-00D9FF?style=flat&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ryubyte@hotmail.com)
 [![GitHub](https://img.shields.io/badge/github-ryubyte-00D9FF?style=flat&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ryubyte)
+
+</div>
